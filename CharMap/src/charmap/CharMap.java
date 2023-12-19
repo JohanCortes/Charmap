@@ -17,7 +17,7 @@ public class CharMap {
 	static Vindu V;
 	static String textl = "", textc = "";
 	static boolean di = true;
-	static String[][] list = new String[3366][2];
+	static String[][] list = new String[4096][2];
 
 	public static void main(String[] args) {
 		int n=0;
